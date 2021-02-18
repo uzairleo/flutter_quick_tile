@@ -4,6 +4,7 @@ import 'dart:async';
 import 'package:flutter/services.dart';
 
 class FlutterQuickTile {
+  // static String testDartMsg="null msg";
   static const MethodChannel _channel =
       const MethodChannel('flutter_quick_tile');
 
